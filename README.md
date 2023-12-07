@@ -40,6 +40,7 @@ A Solidity-based Ethereum project demonstrating a secure and decentralized token
 ## Installation and Usage
 
 ### Installation Steps
+TODO
 1. Clone the repository: `git clone https://github.com/rdancer/blockchain-voting-demo.git`
 2. Install dependencies: `npm install`
 3. Set up the environment.
