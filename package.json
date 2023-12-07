@@ -1,0 +1,7 @@
+{
+    "_comment": "package.json -- Project Dependency File",
+    "name": "blockchain-voting-demo",
+    "version": "0.0.1",
+    "description": "A demo project showcasing a blockchain-based voting system using Ethereum and Solidity."
+}
+
