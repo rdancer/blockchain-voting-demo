@@ -2,6 +2,8 @@
 
 A Solidity-based Ethereum project demonstrating a secure and decentralized token voting system
 
+<img alt="logo" src="docs/favicon.png" width="200px">
+
 ## Executive Summary
 
 **Blockchain Voting Demo** is a demonstration project showcasing a blockchain-based voting system using Ethereum and Solidity. This project serves as a proof of concept for implementing a secure and transparent voting mechanism on the blockchain. It's particularly relevant for organizations looking to integrate blockchain technology for decision-making processes.
